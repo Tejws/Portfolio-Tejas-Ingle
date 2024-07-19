@@ -4,6 +4,3 @@ Frontend: HTML, CSS, JavaScript, React
 Backend: Node.js, Express
 Database: MongoDB
  
- 
-
- 
